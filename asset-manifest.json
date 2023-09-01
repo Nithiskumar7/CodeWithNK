@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CodeWithNK/static/css/main.31d6cfe0.css",
+    "main.js": "/CodeWithNK/static/js/main.84277d07.js",
+    "static/js/787.71c8417e.chunk.js": "/CodeWithNK/static/js/787.71c8417e.chunk.js",
+    "index.html": "/CodeWithNK/index.html",
+    "main.84277d07.js.map": "/CodeWithNK/static/js/main.84277d07.js.map",
+    "787.71c8417e.chunk.js.map": "/CodeWithNK/static/js/787.71c8417e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.84277d07.js"
+  ]
+}
